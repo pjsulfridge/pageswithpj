@@ -1,0 +1,71 @@
+body{
+  background: #98d7eb;
+}
+
+.topnav{
+   padding:  10px 5%;
+}
+
+nav{
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   flex-wrap: wrap;
+}
+
+nav tr td{
+   display: inline-block;
+   margin: 10px 30px;
+}
+
+nav tr td a{
+   color: #080808;
+   text-decoration: none;
+   font-size: 20px;
+   position: relative;		
+   
+}
+
+nav tr td a::after{
+   content: '';  
+   width: 0;
+   height: 3px;
+   background: black;
+   position: absolute;		
+   left: 0;
+   bottom: -6px;
+   transition: 0.5s;
+}
+
+nav tr td a:hover::after{
+   width: 100%;
+}
+
+
+h1{
+	color:blue;
+	background-color: #e1e99c;
+	border:  1px solid black;
+	text-align: center;
+}
+
+h2{
+	text-align: center;
+}
+
+p{
+	font-size: 25px;
+	color: black;
+}
+
+table tr th{
+   font-size: 30px;
+}
+
+table tr td ul{
+   font-size: 23px;
+}
+.kyreading{
+  font-size: 18px;
+  padding: 10px 10%;
+}

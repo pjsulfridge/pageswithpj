@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My CSS Experiment</title>
+    <link rel="stylesheet" href="project.css">
+</head>
+<body>
+
+<div class="topnav">
+  <nav>
+   <table>
+    <tr>
+     <td><a class="nav-links active-link" onclick="opennav('home')" href="#home">Home</a></td>
+     <td><a class="nav-links" onclick="opennav('KYReadingStandards')" href="kyreadingstandards.html">Ky Reading Standards</a></td>
+     <td><a class="nav-links" onclick="opennav('Resources')" href="resources.html">Resources</a></td>
+     <td><a class="nav-links" onclick="opennav('ContactMe')" href="contactme.html">Contact Me</a></td>
+    </tr>
+   </table>
+  </nav>
+</div>
+
+
+<a href="https://www.goodfreephotos.com/albums/vector-images/many-books-on-the-shelf-vector-clipart.png" target="_blank">
+    <p style="text-align:center;"><img src="https://www.goodfreephotos.com/albums/vector-images/many-books-on-the-shelf-vector-clipart.png" 
+      style="width:600px; height:400px; border=0;" alt="many books on the shelf Vector Clipart free photo"></p>
+</a>
+
+
+<h1>Hello World!</h1>
+<h2> Learn to Read AND Succeed</h2>
+
+<p> I am a certified teacher with 22 years of experience in K-3 reading instruction. As a former reading school coach, reading interventionist, and teacher of grades K, 1, and 2, I am confident in assessing students and developing an instructional plan to promote <BOLD>PROGRESS</BOLD>  <STRONG>Learning to read </STRONG> does not have to be a challenge! <BR>Studies show that if students do not learn to read <EM> proficiently</EM> by third grade, they are less likely to "catch up."</p> </BR>
+
+<p>If you seeking one on one instruction, specific measurable goals, and willing to commit the time for tutoring services, reach out to me and let's start this <BOLD>WONDERFUL</BOLD> journey! </p> 
+<p><BR>
+<EM>Disability? Dyslexia? Low Self-Confidence? Below Grade Level?</EM> Not a problem! Assessments and all reading materials included in the price. Copies of all assessments and instructional plan provided.
+</BR>
+<BR>
+Confidential <i>hands-on activities, positive environment, multiple informal assessments to guide instruction, research based strategies, Science of Reading based </i>
+</BR>
+</p>
+
+</body>
+</html>

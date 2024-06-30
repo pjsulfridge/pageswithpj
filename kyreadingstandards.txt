@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KY Reading Standards</title>
+    <link rel="stylesheet" href="project.css">
+</head>
+<body>
+
+<h1>Reading Standards by Grade</h1>
+<table class="kyreading">
+    <tr>
+        <th>Kindergarten</th>
+        <th>First Grade</th>
+        <th>Second Grade</th>
+        <th>Third Grade</th>
+        <th>Fourth Grade</th>
+        <th>Fifth Grade</th>
+    </tr>
+    <tr>
+        <td>
+            <ul>
+                <li>Print Awareness</li>
+                <li>Letter Names</li>
+                <li>Letter Sounds</li>
+            </ul>
+        </td>
+        <td>
+            <ul>
+                <li>Sight Word Recognition</li>
+                <li>Vocabulary</li>
+                <li>Sentence Comprehension</li>
+                <li>Oral Reading Fluency</li>
+            </ul>
+        </td>
+        <td>
+            <ul>
+                <li>Sight Word Recognition</li>
+                <li>Vocabulary</li>
+                <li>Paragraph Comprehension</li>
+                <li>Oral Reading Fluency</li>
+            </ul>
+        </td>
+        <td>
+            <ul>
+                <li>Vocabulary</li>
+                <li>Comprehension</li>
+                <li>Oral Reading Fluency</li>
+            </ul>
+        </td>
+        <td>
+            <ul>
+                <li>Vocabulary</li>
+                <li>Comprehension</li>
+                <li>Oral Reading Fluency</li>
+            </ul>
+        </td>
+        <td>
+            <ul>
+                <li>Vocabulary</li>
+                <li>Comprehension</li>
+                <li>Oral Reading Fluency</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td><a href="https://www.education.ky.gov/curriculum/standards/kyacadstand/Documents/Kindergarten_KAS_Family_Guide.pdf">Family Guide</a></td>
+        <td><a href="https://www.education.ky.gov/curriculum/standards/kyacadstand/Documents/Grade_1_KAS_Family_Guide.pdf">Family Guide</a></td>
+        <td><a href="https://www.education.ky.gov/curriculum/standards/kyacadstand/Documents/Grade_2_KAS_Family_Guide.pdf">Family Guide</a></td>
+        <td><a href="https://www.education.ky.gov/curriculum/standards/kyacadstand/Documents/Grade_3_KAS_Family_Guide.pdf">Family Guide</a></td>
+        <td><a href="https://www.education.ky.gov/curriculum/standards/kyacadstand/Documents/Grade_4_KAS_Family_Guide.pdf">Family Guide</a></td>
+        <td><a href="https://www.education.ky.gov/curriculum/standards/kyacadstand/Documents/Grade_5_KAS_Family_Guide.pdf">Family Guide</a></td>
+    </tr>
+</table>
+
+</body>
+</html>
